@@ -1,0 +1,1 @@
+web: python bopeboom_bot.py
